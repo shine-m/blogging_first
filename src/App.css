@@ -243,6 +243,7 @@ textarea {
 }
 
 .post .postTextContainer {
+  text-align: center;
   scroll-padding-top: 30px;
   margin-top: 20px;
   word-wrap: break-word;
